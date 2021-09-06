@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #eeeeee;
+  }
+  
+  
+  .camposregistro {
+    width: 550px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    
+    
+  }
+  
+  .camposregistro h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(240, 161, 161);
+  }
+
+  .camposregistro h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(240, 161, 161);
+  }
+
+  
+  .espaciosform {
+    width: 100%;
+    background: #ffffff;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #bebebe;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+  }
+
+  .telefono {
+   
+    background: #ffffff;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #bebebe;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .camposregistro p {
+    margin-bottom:  20px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .camposregistro a {
+    color: rgb(3, 3, 3);
+    text-decoration: none;
+  }
+  
+  .camposregistro a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+  }
+  
+  .camposregistro .button {
+    width: 30%;
+    background: #6192fa;
+    border: none;
+    padding: 12px;
+    color: white;
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 30px;
+    margin-left: 33.3%;
+  }
+
+  .camposregistro .registrado {
+    color: rgb(240, 161, 161);
+    font-size: 20px;
+  }

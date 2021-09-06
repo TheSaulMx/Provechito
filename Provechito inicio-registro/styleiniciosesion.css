@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #eeeeee;
+  }
+
+  .camposinicio {
+    width: 550px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    
+    
+  }
+  
+  .camposinicio h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(240, 161, 161);
+  }
+
+  .camposinicio h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(240, 161, 161);
+  }
+
+  
+  .espaciosform {
+    width: 100%;
+    background: #ffffff;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #bebebe;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+  }
+
+  .contraseñaolvidada {
+      margin-left: 33.3%;
+      font-family: 'calibri';
+      color: #bebebe;
+  }
+
+  .nuevousuario {
+    margin-left: 33.3%;
+    font-family: 'calibri';
+    color: rgb(240, 161, 161);
+}
+
+.crearcuenta {
+    margin-left: 45%;
+    font-family: 'calibri';
+    color: rgb(240, 161, 161);
+}
+
+   .button {
+    width: 30%;
+    background: #6192fa;
+    border: none;
+    padding: 12px;
+    color: white;
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 30px;
+    margin-left: 33.3%;
+  }
